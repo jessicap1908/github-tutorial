@@ -43,7 +43,7 @@ You add the SSH key.
 ## Workflow & Commands
 * **Git init:** allows you to create an empty git respitory. This then appears as a git. directory and  
  it allows you to have a git repository that's existing be reinitialize.  
-* **Git add: ** allows you to have changes be placed into the staging area. This has it tracked and   
+* **Git add:** allows you to have changes be placed into the staging area. This has it tracked and   
  prepares it to then be committed.  
 * **Git commit:** is the action of saving the changes into the respitory and GitHub is the repository.
 * **Git push:** is to have the changes you've made be saved to your remote repository from your local branch.
