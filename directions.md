@@ -43,7 +43,11 @@ _NOTE: for each command, you should explain:_
   * [5%]
 * use code snippets _(single and/or multi-line)_
   * [5%]
-
+  `jsddfb`
+```
+dfsf
+dfsdf
+```
 ### _Extra Credit_
 
 * error handling
